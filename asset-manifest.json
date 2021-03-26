@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/crown-clothing-live/static/css/main.692d42e4.chunk.css",
-    "main.js": "/crown-clothing-live/static/js/main.a4085c0d.chunk.js",
-    "main.js.map": "/crown-clothing-live/static/js/main.a4085c0d.chunk.js.map",
+    "main.js": "/crown-clothing-live/static/js/main.d3444b00.chunk.js",
+    "main.js.map": "/crown-clothing-live/static/js/main.d3444b00.chunk.js.map",
     "runtime-main.js": "/crown-clothing-live/static/js/runtime-main.507b99b8.js",
     "runtime-main.js.map": "/crown-clothing-live/static/js/runtime-main.507b99b8.js.map",
     "static/js/2.0caaa84b.chunk.js": "/crown-clothing-live/static/js/2.0caaa84b.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.507b99b8.js",
     "static/js/2.0caaa84b.chunk.js",
     "static/css/main.692d42e4.chunk.css",
-    "static/js/main.a4085c0d.chunk.js"
+    "static/js/main.d3444b00.chunk.js"
   ]
 }
