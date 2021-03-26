@@ -13,7 +13,7 @@ import './header.style.css';
 
 const Header = ({ currentUser, hidden }) => (
   <div className='header'>
-    <Link className='logo-container' to='/'>
+    <Link className='logo-container' to='/crown-clothing-live'>
       <Logo className='logo' />
     </Link>
     <div className='options'>
